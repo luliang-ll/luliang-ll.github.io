@@ -12,8 +12,6 @@ I am currently a Software Engineer at Cisco, responsible for designing and imple
 
 ## Education
 
----
-
 **University of Wisconsin - La Crosse, USA** Sep 2019 - May 2021
 
 *Master of Software Engineering*
@@ -32,9 +30,7 @@ Core Courses: Foundation of Computer Science (95), Data Structure (97), Algorith
 
 ## Papers
 
----
-
-Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy through Sensor Fusion: A Low-Cost, Neural Network-Assisted Visual System for Real-time Position Estimation**. Future Technologies Conference (FTC) in the series "Lecture Notes in Networks and Systems" 2023. (Under review for Scopus, DBLP and INSPEC, etc.)
+Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy through Sensor Fusion: A Low-Cost, Neural Network-Assisted Visual System for Real-time Position Estimation**. Future Technologies Conference (FTC) in the series "Lecture Notes in Networks and Systems" 2023.
 
 - Abstract: A low-cost, GPS-independent model of a neural network-assisted visual tracking system is proposed. In the test phase, the proposed system obtatined a tracking accuracy of 0.5m without any help from expensive depth cameras or 3D LIDAR.
 
@@ -47,8 +43,6 @@ Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy thr
 - Abstract: In this thesis the algorithm based on the elliptical skin color model and the face geometric feature detection in YCbCr color space is used for face detection. The experimental results and data illustrated in this paper show that the alogorithm used in this paper has a low miss detection rate and can achieve more accurate face detection.
 
 ## Projects
-
----
 
 **Webex App** Nov 2021 - Present
 
@@ -79,8 +73,6 @@ Algorithm Developer
 
 ## Work Experience
 
----
-
 **Cisco Systems, Inc.** Nov 2021 - Present
 
 Software Engineer 
@@ -90,8 +82,6 @@ Hangzhou, Zhejiang, China
 - Responsible for designing and implementing the core functionality for the Webex App Calendar Service as a Java developer.
 
 ## Honors & Awards
-
----
 
 First Prize in Joint Defense of Thesis, Hubei Province Computer Professional Talent Training Cooperation Alliance 2019
 
