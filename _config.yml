@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Lu Liang"
 title_separator          : "-"
-name                     : &name "梁璐"
-description              : &description "Software Engineer@Cisco"
+name                     : &name "Lu Liang"
+description              : &description "personal description"
 url                      : https://luliang-ll.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luliang-ll/luliang-ll.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Lu Liang"
+  name2            : "梁璐"
   avatar           : "profile.png"
-  bio              : 
-  location         : "Hangzhou, China"
+  bio              : "Software Engineer@Cisco"
+  location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : 
