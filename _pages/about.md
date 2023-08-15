@@ -13,7 +13,7 @@ I am currently a Software Engineer at Cisco, responsible for designing and imple
 Education
 ======
 
-**University of Wisconsin - La Crosse, USA**	                                                                                  Sep 2019 - May 2021
+**University of Wisconsin - La Crosse, USA** <p align="right">Sep 2019 - May 2021</p>
 
 *Master of Software Engineering*
 
@@ -21,7 +21,7 @@ GPA: 3.56/4.0
 
 Core Courses: Fundamentals of Info Security (A), Computer Network (A), Software Engineering Principles (AB), Mobile ApplicationDevelopment (A)
 
-**South-Central Minzu University, Wuhan, China**	                                                                          Sep 2019 - May 2021
+**South-Central Minzu University, Wuhan, China** <p align="right">Sep 2016 - Jun 2019</p>
 
 *Bachelor of Engineering in Software Engineering*
 
@@ -45,7 +45,7 @@ Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy thr
 
 # Projects
 
-**Webex App**                                                                                                                                             Nov 2021 - Present
+**Webex App** <p align="right">Nov 2021 - Present</p>
 
 Java Developer
 
@@ -55,7 +55,7 @@ Java Developer
 - Actively participate in team meetings and brainstroming sessions, leveraging problem-solving skills to offer creative solutions for affressing complex technical challenges.
 - Assis in the documentation of software design, testing procedures, and user guides, which played a crucial role in knowledge transfer within the team and ensuring maintainable software.
 
-**Vision Indoor Localization and Tracking based on Neural Network**                                             Aug 2020 - May 2021
+**Vision Indoor Localization and Tracking based on Neural Network** <p align="right">Aug 2020 - May 2021</p>
 
 Algorithm and Android Developer
 
@@ -64,7 +64,7 @@ Algorithm and Android Developer
 - The system achieved indoor device localization and tracking with an impressie error margin of fewer than 0.5 meters.
 - These findings were documented in a research paper presented at Feature Technologies Conference 2023 and MidWest Instruction and Computing Symposium 2023.
 
-**Face Detection System based on Skin Color Model** 																	Dec 2018 - Mar 2019
+**Face Detection System based on Skin Color Model** <p align="right">Dec 2018 - Mar 2019</p>
 
 Algorithm Developer
 
@@ -74,19 +74,19 @@ Algorithm Developer
 
 # Work Experience
 
-**Cisco Systems, Inc.** 																															Nov 2021 - Present 
+**Cisco Systems, Inc.** <p align="right">Nov 2021 - Present</p>
 
-Software Engineer 																													Hangzhou, Zhejiang, China
+Software Engineer <p align="right">Hangzhou, Zhejiang, China</p>
 
 - Responsible for designing and implementing the core functionality for the Webex App Calendar Service as a Java developer.
 
 # Honors & Awards
 
-First Prize in Joint Defense of Thesis, Hubei Province Computer Professional Talent Training Cooperation Alliance  2019
+First Prize in Joint Defense of Thesis, Hubei Province Computer Professional Talent Training Cooperation Alliance  <p align="right">2019</p>
 
-Best Bachelor's Thesis Award, South-Central Minzu University 																				  2019
+Best Bachelor's Thesis Award, South-Central Minzu University<p align="right">2019</p>
 
-Second Prize Scholarship for Academic Excellence, South-Central Minzu University                                                 2018
+Second Prize Scholarship for Academic Excellence, South-Central Minzu University<p align="right">2018</p>
 
-First Prize Scholarship for Academic Excellence, South-Central Minzu University                                                       2017
+First Prize Scholarship for Academic Excellence, South-Central Minzu University<p align="right">2017</p>
 
