@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Software Engineer at Cisco, responsible for designing and implementing the core funtionality for the Webex App Calendar Service as a Java developer. Previously, I got my master degree in Software Engineering from University of Wisconsin-La Crosse in 2021, supervised by [Prof.Lei Wang](https://cs.uwlax.edu/~lwang/). My research interests include Computer Vision and Artificial Intelligence.
 
-## Education
+## 🎓 Education
 
 **University of Wisconsin - La Crosse, USA** Sep 2019 - May 2021
 
@@ -28,7 +28,7 @@ GPA: 4.04/5.0 (90.42/100)
 
 Core Courses: Foundation of Computer Science (95), Data Structure (97), Algorithm Design and Analysis (91), Foundation of Software Engineering (95), Computer Networks and Internet Technologies (93)
 
-## Papers
+## 📑 Papers
 
 Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy through Sensor Fusion: A Low-Cost, Neural Network-Assisted Visual System for Real-time Position Estimation**. Future Technologies Conference (FTC) in the series "Lecture Notes in Networks and Systems" 2023.
 
@@ -42,7 +42,7 @@ Houlin Chen, **Lu Liang** and Lei Wang. **Improving Indoor Tracking Accuracy thr
 
 - Abstract: In this thesis the algorithm based on the elliptical skin color model and the face geometric feature detection in YCbCr color space is used for face detection. The experimental results and data illustrated in this paper show that the alogorithm used in this paper has a low miss detection rate and can achieve more accurate face detection.
 
-## Projects
+## 💻 Projects
 
 **Webex App** Nov 2021 - Present
 
@@ -71,7 +71,7 @@ Algorithm Developer
 - Combined the elliptical sin color model and face geometry features detection method, achieving a remarkable detection accuracy on over 90% after thorough experimentation.
 - The thesis based on this project was recognized as the bes bachelor thesis at the university.
 
-## Work Experience
+## 👩🏻‍💻 Work Experience
 
 **Cisco Systems, Inc.** Nov 2021 - Present
 
@@ -81,7 +81,7 @@ Hangzhou, Zhejiang, China
 
 - Responsible for designing and implementing the core functionality for the Webex App Calendar Service as a Java developer.
 
-## Honors & Awards
+## 🥇 Honors & Awards
 
 First Prize in Joint Defense of Thesis, Hubei Province Computer Professional Talent Training Cooperation Alliance 2019
 
